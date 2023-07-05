@@ -36,7 +36,8 @@ Lấy thông số vị trí trỏ chuột, lấy màu dưới trỏ
 
 ### 8. Chuyển chuỗi Unicode
 
-![vba fast code for all](https://github.com/SanbiVN/VBA_FastCode/assets/58664571/5e1ceda6-2b05-492d-b6b0-70fe3ea87f90)
+![VBAFastCode_Convert_Unicode](https://github.com/SanbiVN/VBA_FastCode/assets/58664571/d281b67a-1380-493a-b937-43e33922fb13)
+
 
 ## Lưu ý quan trọng:
 ### Add-in chỉ dành cho lập trình viên
