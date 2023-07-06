@@ -40,7 +40,7 @@ Lấy thông số vị trí trỏ chuột, lấy màu dưới trỏ
 
 
 ## Lưu ý quan trọng:
-### Add-in chỉ dành cho lập trình viên
+### Add-in chỉ dành cho lập trình viên, học tập viên, nhà phát triển. (Quá trình chạy gây tốn kém tài nguyên)
 ### Cài đặt Add-in: nếu máy tính bật Window Defender thì code thể Add-in sẽ không mở được, hoặc bị xóa sạch code, vì trong code có vận dụng Shell, Http, các API liên quan hệ thống, Registry, ....
 ### Add-in Tools chưa hoàn thiện. Các bạn nên cân nhắc có nên sử dụng ứng dụng hay không
 ### Các bạn có thể phát triển Add-in Tools theo hướng của mình.
