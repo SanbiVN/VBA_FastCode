@@ -1,4 +1,4 @@
-# VBA_FastCode
+# VBA_FastCode - VBA Tools
 Một Add-in VB Tools chỉnh sửa code VBA đơn giản, vừa có thể học VBA và viết code nhanh chóng và dễ dàng. Đồng thời nhắc lại các lệnh và hàm.
 
 ## NHỮNG NÚT CƠ BẢN (Khuyên dùng)
