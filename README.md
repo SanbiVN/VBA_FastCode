@@ -1,8 +1,19 @@
 # VBA_FastCode
-Add-in được chia sẻ dưới đây, đó là những gì tôi hiểu biết về VBA và đã viết ra nó.
-Một Add-in Tools chỉnh sửa code VBA rất đơn giản nhưng có thể giúp các bạn học VBA và viết code nhanh chóng và dễ dàng.
+Một Add-in VB Tools chỉnh sửa code VBA đơn giản, vừa có thể học VBA và viết code nhanh chóng và dễ dàng. Đồng thời nhắc lại các lệnh và hàm.
 
-Với nhiều tính năng chuyên dụng cho một Lập trình viên, các tính năng như:
+## NHỮNG NÚT CƠ BẢN (Khuyên dùng)
+
+1. Nút chuyển từ chế độ thực thi sang chế độ chỉnh sửa mã
+Trước hết hãy làm quen với nút này. Khi nhấn nút được khoanh màu đỏ như ảnh bên dưới. Icon sẽ chuyển thành dấu tích màu xanh. Thì khi nhấn các nút thực thi khác, con trỏ chuột sẽ di chuyển đến dòng mã của hàm thực thi để có thể chỉnh sửa mã của thủ tục.
+
+![](https://github.com/SanbiVN/VBA_FastCode/assets/58664571/1763286e-ac3e-40f5-945b-445beb2ee91c)
+
+2. Nút di chuyển đến dòng mã được thao tác gần đây nhất. và nút điều hướng trong thủ tục: tính năng này giúp di chuyển nhanh chóng qua các tham số, biến, nhãn và khai báo. (Yêu cầu đặt con trỏ vào đối tượng).
+
+![278277661-5b36a883-6d1c-42ec-a58a-c60c1e2d5e5c](https://github.com/SanbiVN/VBA_FastCode/assets/58664571/f27d8ed7-e75f-487b-a4bb-3b51bcf48df5)
+
+
+## Với nhiều tính năng chuyên dụng cho một Lập trình viên, các tính năng như:
 
 ### 1. Nhập nhanh:
 Các nút và danh sách nhập cú pháp
