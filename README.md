@@ -1,6 +1,11 @@
 # VBA_FastCode - VBA Tools
 Một Add-in VB Tools chỉnh sửa code VBA đơn giản, vừa có thể học VBA và viết code nhanh chóng và dễ dàng. Đồng thời nhắc lại các lệnh và hàm.
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanbiVN&show_icons=true&hide_title=true" />
+</div>
+
 ## NHỮNG NÚT CƠ BẢN (Khuyên dùng)
 
 1. Nút chuyển từ chế độ thực thi sang chế độ chỉnh sửa mã
