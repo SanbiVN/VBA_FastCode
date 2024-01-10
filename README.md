@@ -1,8 +1,8 @@
 # VBA_FastCode - VBA Tools
 Một Add-in VB Tools chỉnh sửa code VBA đơn giản, vừa có thể học VBA và viết code nhanh chóng và dễ dàng. Đồng thời nhắc lại các lệnh và hàm.
 
+[![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/VBA_FastCode/total.svg)](https://github.com/SanbiVN/VBA_FastCode/releases/tag/fastcode) \
 ![](https://komarev.com/ghpvc/?username=SanbiVN)
-[![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/VBA_FastCode/total.svg)](https://github.com/SanbiVN/VBA_FastCode/releases/tag/fastcode)
 
 ## NHỮNG NÚT CƠ BẢN (Khuyên dùng)
 
